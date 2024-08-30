@@ -1,0 +1,2 @@
+# todo
+Golang cli practice
